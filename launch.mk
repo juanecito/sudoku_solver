@@ -1,0 +1,5 @@
+
+
+all:
+	cmake .;\
+	make -C .
